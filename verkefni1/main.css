@@ -1,0 +1,17 @@
+body{
+font-family: sans-serif;
+max-width: 50em ;
+border: 2px solid rgb(255, 174, 0);
+padding: 2em;
+margin: 2em auto;/*top+bottom =em l+r = auto*/
+}
+h1{
+color: red;
+}
+ol li {
+font-style: italic;
+color: rgb(25, 0, 255) ;
+}
+ul li {
+color:green;
+}
